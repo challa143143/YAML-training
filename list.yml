@@ -1,6 +1,9 @@
 ---
- patient-informmation:
   patient name: Dinesh
   pa_id: 51232143
   hospital name: KIMS
+ 
+  patient1 name: parveen
+  pa_id1: 51232144
+  hospital name1: KIMs1
 ...

@@ -1,0 +1,14 @@
+---
+ - patient name: Dinesh
+   pa_id: 51232143
+   hospital name: KIMS
+ - patient name: parveen
+   pa_id: 51232143
+   hospital name: KIMS 
+ - patient name: mohit
+   pa_id: 51232143
+   hospital name: KIMS 
+ - patient name: akash
+   pa_id: 51232143
+   hospital name: KIMS
+...    
